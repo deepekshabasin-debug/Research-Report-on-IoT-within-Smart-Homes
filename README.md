@@ -34,6 +34,3 @@ The infrastructure balances local edge processing with lightweight networking pr
 * **Predictive AI Integration:** Shifting away from rigid, user-defined rules (e.g., scheduling the heater for 6 PM) toward machine learning models that read environmental thresholds and predict comfort needs automatically.
 
 ---
-
-## 📚 References & Acknowledgments
-This implementation is built around the conceptual frameworks and structural analysis documented in `"RESEARCH_REPORT_IoT_WITHIN_SMART_HOMES.pdf"`.
